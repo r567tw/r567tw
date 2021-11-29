@@ -1,11 +1,11 @@
-### Hi I'm r567tw (jimmy) 👋
+# Hi I'm r567tw (jimmy) 👋
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=r567tw)
 
 - Male 👨🏻
 - Developer from Taiwan 🇹🇼
-- Christian ✝️  🙏 🙏 🙏
+- Christian ✝️ 
 - Interested : Movie, Animate, Tour, Baseball, and Programming.
-- My Blog: [Jimmy's code](https://jimmycode.tw/)
+- My Blog: [Jimmy's code](https://jimmycode.tw/) 
 - My Resume: [Resume](https://r567tw.github.io/resume)
 
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=r567tw&hide=html,blade,css&layout=compact)
