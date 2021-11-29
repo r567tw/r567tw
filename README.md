@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi I'm r567tw (jimmy) 👋
 
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=r567tw&show_icons=true&hide=contribs&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r567tw&hide=html,blade,css&layout=compact" />
+</a>
 <!--
 **r567tw/r567tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
