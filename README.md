@@ -1,12 +1,17 @@
 ### Hi I'm r567tw (jimmy) 👋
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=r567tw)
 
+- Male 👨🏻
+- Developer from Taiwan 🇹🇼
+- Christian ✝️  🙏 🙏 🙏
+- Interested : Movie, Animate, Tour, Baseball, and Programming.
+- My Blog: [Jimmy's code](https://jimmycode.tw/)
+- My Resume: [Resume](https://r567tw.github.io/resume)
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=r567tw&show_icons=true&hide=contribs&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r567tw&hide=html,blade,css&layout=compact" />
-</a>
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=r567tw&hide=html,blade,css&layout=compact)
+
+![stats](https://github-readme-stats.vercel.app/api?username=r567tw&show_icons=true&hide=contribs&theme=radical)
+
 <!--
 **r567tw/r567tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
