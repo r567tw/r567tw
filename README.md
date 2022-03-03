@@ -4,7 +4,7 @@
 - Male 👨🏻
 - Developer from Taiwan 🇹🇼
 - Christian ✝️ 
-- Interested : Movie, Animate, Tour, Baseball, and Programming.
+- Interested : Movie, Tour, Baseball, and Programming.
 - My Blog: [Jimmy's code](https://jimmycode.tw/) 
 - My Resume: [Resume](https://r567tw.github.io/resume)
 
