@@ -12,22 +12,22 @@
 - 📄 Know about my experiences [jimmycode.tw/resume](jimmycode.tw/resume)
 
 ### Languages and Tools:
-<div style="width: 80px;
-    height: 80px;
-    margin-bottom: 50px
-">
+<p>
 
- ![aws](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
- ![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
- ![go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)
- ![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
- ![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
- ![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
- ![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
- ![laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg)
- ![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40px" height="40px" alt="aws">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40px" height="40px" alt="docker">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40px" height="40px" alt="go">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px" height="40px" alt="javascript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40px" height="40px" alt="php">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px" height="40px" alt="python">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40px" height="40px" alt="mysql">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40px" height="40px" alt="laravel">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40px" height="40px" alt="nodejs">
 
-</div>
+</p>
+
+
+
 
 ![github-language](https://github-readme-stats.vercel.app/api/top-langs?username=r567tw&show_icons=true&layout=compact&hide=css,scss,html&theme=tokyonight)
 
