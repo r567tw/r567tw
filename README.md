@@ -12,13 +12,6 @@
 - 📄 Know about my experiences [jimmycode.tw/resume](jimmycode.tw/resume)
 
 ### Languages and Tools:
-<style>
-.skills img {
-    width: 80px;
-    height: 80px;
-    margin-bottom: 50px
-}
-</style>
 <div style="img {
     width: 80px;
     height: 80px;
