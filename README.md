@@ -12,11 +12,10 @@
 - 📄 Know about my experiences [jimmycode.tw/resume](jimmycode.tw/resume)
 
 ### Languages and Tools:
-<div style="img {
-    width: 80px;
+<div style="width: 80px;
     height: 80px;
     margin-bottom: 50px
-}">
+">
 
  ![aws](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
  ![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
