@@ -19,7 +19,11 @@
     margin-bottom: 50px
 }
 </style>
-<div class="skills">
+<div style="img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 50px
+}">
 
  ![aws](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
  ![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
