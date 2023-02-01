@@ -12,27 +12,28 @@
 - 📄 Know about my experiences [jimmycode.tw/resume](jimmycode.tw/resume)
 
 ### Languages and Tools:
- [![aws](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)](https://aws.amazon.com) 
+<style>
+.skills img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 50px
+}
+</style>
+<div class="skills">
 
- [![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)](https://www.docker.com/)
+ ![aws](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+ ![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
+ ![go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)
+ ![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+ ![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
+ ![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+ ![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+ ![laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg)
+ ![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
 
- [![go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)](https://golang.org)
+</div>
 
- [![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-[![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)](https://www.php.net)
-
-[![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
-
-[![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)
-
-[![laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg)](https://laravel.com/)
-
-[![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)
-
-
-
-![github-language](https://github-readme-stats.vercel.app/api/top-langs?username=r567tw&show_icons=true&locale=en&layout=compact)
+![github-language](https://github-readme-stats.vercel.app/api/top-langs?username=r567tw&show_icons=true&layout=compact&hide=css,scss,html&theme=tokyonight)
 
 ![snake](https://raw.githubusercontent.com/r567tw/r567tw/snake/github-snake.svg)
 
