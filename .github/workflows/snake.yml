@@ -1,9 +1,11 @@
 name: generate-snake
 
 on:
-  push:
-    branches:
-      - main  # Set a branch to deploy
+  schedule:
+    - cron: '0 0 */2 * *'
+#   push:
+#     branches:
+#       - main  # Set a branch to deploy
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
