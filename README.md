@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [jimmycode.tw](https://jimmycode.tw)
 
-- 💬 Ask me about **php,laravel,python,golang,javascript,Java**
+- 💬 Ask me about **PHP,Python,Golang,Javascript,Java**
 
 - 📫 How to reach me **r567tw@gmail.com**
 
