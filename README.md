@@ -3,13 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r567tw&label=Profile%20views&color=0e75b6&style=flat" alt="r567tw" /> </p>
 
-- 📝 I regularly write articles on [jimmycode.tw](https://jimmycode.tw),[jimmy's notes](https://jimmynotes.netlify.app/)
-
+- 📝 I regularly write articles on [jimmycode.tw](https://jimmycode.tw) and [jimmy's notes](https://jimmynotes.netlify.app/)
 - 💬 Ask me about **PHP,Python,Golang,NodeJS,Java**
-
 - 📫 How to reach me **r567tw@gmail.com**
-
-- 📄 Know about my experiences [https://jimmycode.tw/resume](jimmycode.tw/resume)
+- 📄 Know about my experiences : [https://jimmycode.tw/resume](jimmycode.tw/resume)
 
 ### Languages and Tools:
 <p>
