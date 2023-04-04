@@ -1,7 +1,10 @@
 # Hi 👋, I'm r567tw
 ### A backend developer from Taiwan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r567tw&label=Profile%20views&color=0e75b6&style=flat" alt="r567tw" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=r567tw&label=Profile%20views&color=0e75b6&style=flat" alt="r567tw" />
+<img src="https://github.com/r567tw/r567tw/actions/workflows/snake.yml/badge.svg" alt="generate-snake"/>
+</p>
 
 - 📝 I regularly write articles on [jimmycode.tw](https://jimmycode.tw) and [jimmy's notes](https://jimmynotes.netlify.app/)
 - 💬 Ask me about **PHP,Python,Golang,NodeJS,Java**
@@ -23,9 +26,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40px" height="40px" alt="nodejs">
 
 </p>
-
-
-
 
 ![github-language](https://github-readme-stats.vercel.app/api/top-langs?username=r567tw&show_icons=true&layout=compact&hide=css,scss,html&theme=tokyonight)
 
