@@ -32,6 +32,8 @@
 
 ![github-language](https://github-readme-stats.vercel.app/api/top-langs?username=r567tw&show_icons=true&layout=compact&hide=css,scss,html&theme=tokyonight)
 
+![r567tw's GitHub stats](https://github-readme-stats.vercel.app/api?username=r567tw&show_icons=true&theme=tokyonight)
+
 ![snake](https://raw.githubusercontent.com/r567tw/r567tw/snake/github-snake.svg)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r567tw&show_icons=true&locale=en" alt="r567tw" /></p> -->
