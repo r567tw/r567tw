@@ -4,12 +4,14 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=r567tw&label=Profile%20views&color=0e75b6&style=flat" alt="r567tw" />
 <img src="https://github.com/r567tw/r567tw/actions/workflows/snake.yml/badge.svg" alt="generate-snake"/>
+<img src="https://github.com/r567tw/code-blog/actions/workflows/gh-pages.yml/badge.svg" alt="jimmy-codes"/>
+<img src="https://api.netlify.com/api/v1/badges/e75aa00f-ad91-4b81-ab6c-cd64452706f4/deploy-status" alt="jimmy-notes"/>
 </p>
 
 - 📝 I regularly write articles on [jimmycode.tw](https://jimmycode.tw) and [jimmy's notes](https://jimmynotes.netlify.app/)
-- 💬 Ask me about **PHP & Python & golang & NodeJS & Java**
+- 💬 Ask me about **PHP & Python & Golang & NodeJS & Java**
 - 📫 How to reach me **r567tw@gmail.com**
-- 📄 Know about my experiences : [https://jimmycode.tw/resume](jimmycode.tw/resume)
+- 📄 More about me: [https://jimmycode.tw/resume](jimmycode.tw/resume)
 
 
 ### Languages and Tools:
