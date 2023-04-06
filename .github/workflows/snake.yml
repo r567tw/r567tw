@@ -2,7 +2,7 @@ name: generate-snake
 
 on:
   schedule:
-    - cron: '0 0 */15 * *'
+    - cron: '0 0 */7 * *'
 #   push:
 #     branches:
 #       - main  # Set a branch to deploy
