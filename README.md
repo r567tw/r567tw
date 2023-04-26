@@ -37,10 +37,11 @@
 </span>
 </p>
 
-![snake](https://raw.githubusercontent.com/r567tw/r567tw/snake/github-snake.svg)
+<!-- ![lang](https://github-readme-stats.vercel.app/api?username=r567tw&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api/top-langs?username=r567tw&show_icons=true&layout=compact&hide=css,scss,html,blade&theme=tokyonight) -->
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r567tw&show_icons=true&locale=en" alt="r567tw" /></p> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r567tw&" alt="r567tw" /></p> -->
+
+![snake](https://raw.githubusercontent.com/r567tw/r567tw/snake/github-snake.svg)
 
 <!--
 **r567tw/r567tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
