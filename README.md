@@ -9,6 +9,7 @@
 - 📝 I regularly write articles on [jimmycode.tw](https://jimmycode.tw) and [jimmy's notes](https://jimmynotes.netlify.app/)
 - 🔭 I’m currently working on Fullstack (use Golang & Vue)
 - 💬 Ask me about **PHP & Python & Golang & NodeJS & Java**
+- 🤔 I’m looking for help with `find an open source project`
 - 📫 How to reach me **r567tw@gmail.com**
 - 📄 More about me: [https://jimmycode.tw/resume](jimmycode.tw/resume)
 
