@@ -7,7 +7,6 @@
 </p>
 
 - 📝 I regularly write articles on [jimmycode.tw](https://jimmycode.tw) 
-<!-- and [jimmy's notes](https://jimmynotes.netlify.app/) -->
 - 🔭 I’m currently working on Fullstack (use Golang & Vue)
 - 💬 Ask me about **PHP & Python & Golang & NodeJS & Java**
 - 🤔 I’m looking for help with `find an open source project`
@@ -44,6 +43,7 @@
 
 <!--
 **r567tw/r567tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+and [jimmy's notes](https://jimmynotes.netlify.app/) 
 
 Here are some ideas to get you started:
 
