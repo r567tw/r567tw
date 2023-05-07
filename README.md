@@ -6,7 +6,8 @@
 <img src="https://github.com/r567tw/r567tw/actions/workflows/snake.yml/badge.svg" alt="generate-snake"/>
 </p>
 
-- 📝 I regularly write articles on [jimmycode.tw](https://jimmycode.tw) and [jimmy's notes](https://jimmynotes.netlify.app/)
+- 📝 I regularly write articles on [jimmycode.tw](https://jimmycode.tw) 
+<!-- and [jimmy's notes](https://jimmynotes.netlify.app/) -->
 - 🔭 I’m currently working on Fullstack (use Golang & Vue)
 - 💬 Ask me about **PHP & Python & Golang & NodeJS & Java**
 - 🤔 I’m looking for help with `find an open source project`
