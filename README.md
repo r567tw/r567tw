@@ -7,9 +7,10 @@
 </p>
 
 - 📝 I regularly write articles on [jimmycode.tw](https://jimmycode.tw) 
-- 🔭 I’m currently working on Fullstack (use Golang & Vue)
-- 💬 Ask me about **PHP & Python & Golang & NodeJS & Java**
-- 🤔 I’m looking for help with `find an open source project`
+- 🔭 I’m Fullstack Engineer (use Golang & Vue)
+- 🌱 I’m currently working on [100Days-of-golang](https://github.com/r567tw/100Days-of-golang)
+- 💬 Ask me about **PHP & Python & Golang**
+- 🤔 I’m looking for `an open source project`
 - 📫 How to reach me **r567tw@gmail.com**
 - 📄 More about me: [https://jimmycode.tw/resume](jimmycode.tw/resume)
 
@@ -40,19 +41,3 @@
 
 
 ![snake](https://raw.githubusercontent.com/r567tw/r567tw/snake/github-snake.svg)
-
-<!--
-**r567tw/r567tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-and [jimmy's notes](https://jimmynotes.netlify.app/) 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
