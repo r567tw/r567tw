@@ -11,7 +11,7 @@
 - 💬 Ask me about **PHP & Python & Golang**
 - 🤔 I’m looking for `an open source project`
 - 📫 How to reach me **r567tw@gmail.com**
-- 📄 More about me: [https://jimmycode.tw/resume](jimmycode.tw/resume)
+- 📄 More about me: [https://jimmycode.tw/resume](https://jimmycode.tw/resume)
 
 
 ### Languages and Tools:
