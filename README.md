@@ -7,7 +7,6 @@
 </p>
 
 - 📝 I regularly write articles on [jimmycode.tw](https://jimmycode.tw) 
-- 🌱 I’m currently working on [100Days-of-golang](https://github.com/r567tw/100Days-of-golang)
 - 💬 Ask me about **PHP & Python & Golang**
 - 🤔 I’m looking for `an open source project`
 - 📫 How to reach me **r567tw@gmail.com**
