@@ -35,6 +35,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r567tw&show_icons=true&layout=compact&hide=css,scss,html,blade&theme=tokyonight" alt="github-language" height="150px">    
 </span>
 </p>
-
-
-![snake](https://raw.githubusercontent.com/r567tw/r567tw/snake/github-snake.svg)
