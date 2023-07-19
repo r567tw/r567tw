@@ -3,7 +3,6 @@
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=r567tw&label=Profile%20views&color=0e75b6&style=flat" alt="r567tw" />
-<img src="https://github.com/r567tw/r567tw/actions/workflows/snake.yml/badge.svg" alt="generate-snake"/>
 </p>
 
 - 📝 I regularly write articles on [jimmycode.tw](https://jimmycode.tw) 
