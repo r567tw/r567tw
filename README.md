@@ -5,11 +5,11 @@
 <img src="https://komarev.com/ghpvc/?username=r567tw&label=Profile%20views&color=0e75b6&style=flat" alt="r567tw" />
 </p>
 
-- 📝 I regularly write articles on [jimmycode.tw](https://jimmycode.tw) 
-- 💬 Ask me about **PHP & Python & Golang**
+- 📝 I regularly write articles on [r567tw.github.io](https://r567tw.github.io) 
+- 💬 Ask me about **PHP/WordPress/Laravel & Python & Golang**
 - 🤔 I’m looking for `an open source project`
 - 📫 How to reach me **r567tw@gmail.com**
-- 📄 More about me: [https://jimmycode.tw/resume](https://jimmycode.tw/resume)
+- 📄 More about me: [https://r567tw.github.io/resume](https://r567tw.github.io/resume)
 
 ### Languages and Tools:
 <p>
