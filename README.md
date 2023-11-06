@@ -6,8 +6,7 @@
 </p>
 
 - 📝 I regularly write articles on [r567tw.github.io](https://r567tw.github.io) 
-- 💬 Ask me about **PHP/WordPress/Laravel & Python & Golang**
-- 🤔 I’m looking for `an open source project`
+- 💬 Ask me about **PHP / WordPress/ Laravel & Python & Golang**
 - 📫 How to reach me **r567tw@gmail.com**
 - 📄 More about me: [https://r567tw.github.io/resume](https://r567tw.github.io/resume)
 
