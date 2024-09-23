@@ -32,6 +32,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=r567tw&show_icons=true&theme=tokyonight" alt="r567tw's GitHub stats" height="150px">   
 </span>
 <span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=r567tw&show_icons=true&layout=compact&hide=css,scss,html,blade&theme=tokyonight" alt="github-language" height="150px">    
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=r567tw&show_icons=true&layout=compact&hide=css,scss,html,blade,pug,ejs&theme=tokyonight" alt="github-language" height="150px">    
 </span>
 </p>
