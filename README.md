@@ -6,7 +6,7 @@
 </p>
 
 - 📝 I regularly write articles on [r567tw.cc](https://r567tw.cc) 
-- 💬 Ask me about **PHP / WordPress/ Laravel & Python & Golang & Java**
+- 💬 Ask me about **PHP & Python & Golang & Java**
 - 📫 How to reach me **r567tw@gmail.com**
 - 📄 More about me: [https://r567tw.github.io/resume](https://r567tw.github.io/resume)
 - 📚 Our Knowledge System: https://notes.r567tw.cc
