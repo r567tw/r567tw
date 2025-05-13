@@ -6,7 +6,7 @@
 </p>
 
 - 📝 I regularly write articles on [r567tw.cc](https://r567tw.cc) 
-- 💬 Ask me about **PHP & Python & Golang & Java**
+- 💬 Ask me about **PHP & Python & Golang**
 - 📫 How to reach me **r567tw@gmail.com**
 - 📄 More about me: [https://r567tw.github.io/resume](https://r567tw.github.io/resume)
 - 📚 Our Knowledge System: https://notes.r567tw.cc
@@ -20,7 +20,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40px" height="40px" alt="go">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40px" height="40px" alt="php">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px" height="40px" alt="python">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40px" height="40px" alt="java">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40px" height="40px" alt="mysql">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40px" height="40px" alt="laravel">
 
