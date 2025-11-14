@@ -10,7 +10,6 @@
 - 💬 Ask me about **PHP & Python & Golang**
 - 📫 How to reach me **r567tw@gmail.com**
 - 📄 More about me: [https://r567tw.github.io/resume](https://r567tw.github.io/resume)
-- 📚 Our Knowledge System: https://notes.r567tw.cc
   
 
 ### Languages and Tools:
