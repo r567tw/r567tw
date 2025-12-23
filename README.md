@@ -3,7 +3,6 @@
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=r567tw&label=Profile%20views&color=0e75b6&style=flat" alt="r567tw" />
-  <a href="https://wakatime.com/@a7c64333-9dc2-45f9-9de1-5fa6384603b7"><img src="https://wakatime.com/badge/user/a7c64333-9dc2-45f9-9de1-5fa6384603b7.svg" alt="Total time coded since Jun 1 2019" /></a>
 </p>
 
 - 📝 I regularly write articles on [r567tw.cc](https://r567tw.cc) 
